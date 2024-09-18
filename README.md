@@ -22,5 +22,4 @@ Name: Christian Garcia
 Education: northeastern class of 2028
 projects: hard jewelry website
 
-
 -->
