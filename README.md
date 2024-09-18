@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a national qualifier in the USAPL for raw powerlifting!
 -->
+
+
+
+<!--
+Name: Christian Garcia
+Education: northeastern class of 2028
+projects: hard jewelry website
+
+-->
