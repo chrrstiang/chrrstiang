@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 Name: Christian Garcia
 Education: northeastern class of 2028
 projects: hard jewelry website
-
+Age: 18
 -->
