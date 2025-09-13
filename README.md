@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Christian Garcia, a first year student at Northeastern University.
+## I'm Christian Garcia, a second year student at Northeastern University.
 
 ## - 🔭 I’m currently working on a full-stack mobile & web application geared towards powerlifters and their coaches!
 ## - 🌱 I’m currently learning object-oriented programming and building RESTful APIs.
