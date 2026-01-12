@@ -1,5 +1,5 @@
 ## I'm Christian Garcia 👾
- I am a second year **Computer Science/Behavioral Neuroscience** student at Northeastern University. I'm particularly interested in **neurotechnology** and utilzing neurological data to improve people's everyday lives. Furthermore, I'm passionate about **full-stack software engineering**, building products and shipping features from end to end. 
+ I am a second year **Computer Science/Behavioral Neuroscience** student at Northeastern University. I'm particularly interested in **neurotechnology** and exploring how neurological data can be applied innovatively to improve quality of life. Furthermore, I'm passionate about **full-stack software engineering**, building products and shipping features from end to end. 
  
  In my free time, you'll find me training as a powerlifter, thrifting at my local GoodWill, or watching the latest netflix documentary.
 
