@@ -1,5 +1,5 @@
 ## I'm Christian Garcia 👾
- I am a second year **Computer Science/Behavioral Neuroscience** student at Northeastern University. I'm particularly interested in **neurotechnology** and exploring how neurological data can be applied innovatively to improve quality of life. Furthermore, I'm passionate about **full-stack software engineering**, building products and shipping features from end to end. 
+ I am a second year **Computer Science/Behavioral Neuroscience** student at Northeastern University. I'm particularly interested in **neurotechnology** and exploring how neurological data can be applied innovatively to improve quality of life through brain-computer interfaces. Furthermore, I'm passionate about **full-stack software engineering**, building products and shipping features from end to end. 
  
  In my free time, you'll find me training as a powerlifter, thrifting at my local GoodWill, or watching the latest netflix documentary.
 
@@ -23,7 +23,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## ✍🏼 Interests
-- **🧪 Bio/Neurotechology**: Utilizing neural data to improve everyday life beyond healthcare.
+- **🧪 Bio/Neurotechology**: Utilizing neural data to improve everyday life through brain-computer interfaces.
 - **🧱 Full-Stack Software Engineering**: Engineering & architecting complex products beneficial to users.
 - **🏋🏼‍♂️ Powerlifting**: Competing at the national level and eventually, the international level
 
