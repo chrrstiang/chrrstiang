@@ -1,5 +1,5 @@
 ## I'm Christian Garcia 👾
- I am a second year **Computer Science/Behavioral Neuroscience** student at Northeastern University. I'm particularly interested in **neurotechnology** and exploring how neurological data can be applied innovatively to improve quality of life through brain-computer interfaces. Furthermore, I'm passionate about **full-stack software engineering**, building products and shipping features from end to end. 
+ I am a second year **Computer Science & Behavioral Neuroscience** student at Northeastern University. I'm particularly interested in **neurotechnology** and exploring how neural data can be applied innovatively to improve quality of life through brain-computer interfaces. Furthermore, I'm passionate about **full-stack software engineering**, building products and shipping features from end to end. 
  
  In my free time, you'll find me training as a powerlifter, thrifting at my local GoodWill, or watching the latest netflix documentary.
 
@@ -29,7 +29,7 @@
 
 ## Favorite Projects
 - **🚀 LiftOff**: Cross-platform social/tracking application for powerlifting coaches to improve the efficiency behind the coach-athlete relationship in powerlifting.
-- **🧠 Brain-Powered Pomodoro Timer**: Productivity timer utilizing EEG brain wave data to determine the focus score of a user in real-time.
+- **🧠 Brain-Powered Pomodoro Timer**: Enhancing producitivity through a pomodoro timer backed by brain-wave data to determine the focus score of a user in real-time.
 
 ## 📲 Connect with me!
 - **LinkedIn**: [https://www.linkedin.com/in/christiangarcia9558](https://www.linkedin.com/in/christiangarcia9558)
