@@ -27,7 +27,7 @@
 - **🧱 Full-Stack Software Engineering**: Engineering & architecting complex products beneficial to users.
 - **🏋🏼‍♂️ Powerlifting**: Competing at the national level and eventually, the international level
 
-## Favorite Projects
+## 📟 Favorite Projects
 - **🚀 LiftOff**: Cross-platform social/tracking application for powerlifting coaches to improve the efficiency behind the coach-athlete relationship in powerlifting.
 - **🧠 Brain-Powered Pomodoro Timer**: Enhancing producitivity through a pomodoro timer backed by brain-wave data to determine the focus score of a user in real-time.
 
